@@ -3,5 +3,5 @@ build:
   list: always
   render: never
   publishResources: false
-draft: true
+title: The Methodist Church
 ---
