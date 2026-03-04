@@ -1,5 +1,6 @@
 ---
-title: Methodist Church Coffee Morning
+draft: false
+title: Coffee Morning
 date: 2026-03-10
 eventDates:
   - start: 2026-03-10T10:30:00
@@ -8,6 +9,11 @@ venues:
   - the-methodist-church
 organisers:
   - the-methodist-church
+aliases:
+  - /events/2026/03/methodist-church-coffee-morning-2026-03-10/
 ---
+Coffee morning with bottomless tea or coffee and biscuits for £1.50. Located on Hill Road by the pond.
 
-£1.50 for tea/coffee and biscuits.
+Charity of the year is Dementia UK. We welcome Woodland wellbeing walkers at the end of their walk.
+
+Come and join us for a warm drink and friendly conversation in our welcoming community space.
